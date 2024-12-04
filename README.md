@@ -32,7 +32,7 @@ Um aplicativo de lista de tarefas desenvolvido em Flutter que permite aos usuár
 
 ```bash
 git clone https://github.com/Vitu26/todo_app.git
-cd todo_app
+cd lista_de_tarefas
 ```
 
 #### Instale as Dependências
